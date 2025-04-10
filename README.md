@@ -1,5 +1,6 @@
 ### Olá! Eu sou o Walter Gomes 👋🏾
-Graduando de Biologia pela Universidade Federal Rural da Amazônia. Procuro colaborar em qualquer projeto que envolva a aplicação computacional na resolução de problemas biológicos. Sou um fã desse área.
+Graduando do Ultimo Semestre de Biologia pela Universidade Federal Rural da Amazônia. 
+Bolsista IC-FAPESPA no Laboratório de Engenharia Biologica em Projetos de Bioinformática
 
 ### Tecnologias que estou aprendendo e utilizando :
 <div style="display: inline_block"><br/>
@@ -17,7 +18,7 @@ Graduando de Biologia pela Universidade Federal Rural da Amazônia. Procuro cola
 ![Walter GitHub stats](https://github-readme-stats.vercel.app/api?username=walter&show_icons=true&theme=dracula)
 
 💞️👨🏽‍💻Fascinado pelo desenvolvimento e utilização de ferramentas para análise e tratamento de dados biológicos.
-Estou aprendendo bioinformática e programação.
+Estou em continua aprendizagem em bioinformática e programação.
 
 ### 📫 Como me encontrar ?
 EMAIL: waltergomesbio@gmail.com // walter.netto@discente.ufra.edu.br
