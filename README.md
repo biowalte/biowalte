@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Walter Gomes 👋🏾
-Graduando do Ultimo Semestre de Biologia pela Universidade Federal Rural da Amazônia. 
-Bolsista IC-FAPESPA no Laboratório de Engenharia Biologica em Projetos de Bioinformática
+Biologo pela Universidade Federal Rural da Amazônia. 
+Pesquisador no Laboratório de Engenharia Biologica
 
 ### Tecnologias que estou aprendendo e utilizando :
 <div style="display: inline_block"><br/>
