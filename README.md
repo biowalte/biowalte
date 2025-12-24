@@ -12,6 +12,7 @@ Pesquisador no Laboratório de Engenharia Biologica
   <img aling= "center" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img aling= "center" alt="Collab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
   <img aling= "center" alt="VScode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img aling= "center" alt="VScode" src="[https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge](https://img.shields.io/badge/nextflow-%E2%89%A50.27.6-brightgreen.svg)" />
 </div><br/>
 
 
